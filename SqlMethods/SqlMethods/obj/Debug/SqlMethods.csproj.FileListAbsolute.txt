@@ -1,0 +1,8 @@
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\obj\Debug\SqlMethods.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\obj\Debug\SqlMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\obj\Debug\SqlMethods.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\bin\Debug\SqlMethods.exe.config
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\bin\Debug\SqlMethods.exe
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\bin\Debug\SqlMethods.pdb
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\obj\Debug\SqlMethods.exe
+C:\Users\12283\source\repos\SqlMethods\SqlMethods\obj\Debug\SqlMethods.pdb
